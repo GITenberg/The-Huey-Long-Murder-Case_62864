@@ -1,0 +1,28 @@
+_repo: The-Huey-Long-Murder-Case_62864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deutsch, Hermann B. (Hermann Bacher)
+    alias: Deutsch, Hermann Bacher
+    birthdate: 1889
+    deathdate: 1970
+    gutenberg_agent_id: '52164'
+    url: http://www.gutenberg.org/2009/agents/52164
+description: ''
+gutenberg_issued: '2020-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62864'
+  lccn: '62015869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Long, Huey Pierce, 1893-1935'
+- !lcsh 'Murder -- Louisiana -- Baton Rouge'
+- !lcsh 'Weiss, Carl Austin, 1905-1935'
+- GITenberg
+title: The Huey Long Murder Case
+url: http://www.gutenberg.org/ebooks/62864
